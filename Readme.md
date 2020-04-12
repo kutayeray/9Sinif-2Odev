@@ -44,5 +44,5 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 | 9,95      |  0,0300   |
 | 15,68     |  0,0410   |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](https://docs.google.com/spreadsheets/d/1MJBKj5evgfr7rHITvqm1RrjCGTrKkJEag7iF-gISATo/edit?usp=sharing). 
 
